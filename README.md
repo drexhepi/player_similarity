@@ -13,3 +13,12 @@ What this model attempts to do through unsupervised learning is try to group pla
     * Elbow Method
     * Silhouette Coefficient
 4. Streamlit Application 
+
+
+
+
+##### Sources 
+ - Hands-On Machine Learning with Scikit-Learn, Keras & TenserFlow by: Aurélien Géron
+ - (https://dtai.cs.kuleuven.be/sports/blog/player-vectors-characterizing-soccer-players-playing-style)
+ - 
+
