@@ -32,4 +32,5 @@ This is a very simplistic approach but it's a good start to see the method in ac
  - https://github.com/Ben8t/player_vector/blob/master/src/similarity.py
  - [datascience.sai] (https://datascience.sia-partners.ai/en/blog/ai-applied-football-uncover-most-promising-talent)
  - [datascience.sia-partners.ai] https://datascience.sia-partners.ai/en/blog/ai-applied-football-uncover-most-promising-talent
+ - [I'm an inline-style link](https://www.google.com)
 
