@@ -4,6 +4,11 @@ The underlying objective of this project was to learn how to apply unspervised l
 
 What this model attempts to do through unsupervised learning is try to group players together in similar style so that data can maybe help generate options that finds players that are very similar in style to these superstars. Having this knowledge can help teams in one of two ways. One, team can find for affortable players that are similar in style as those so called 'superstars' and two, when players are sold, such as Neymar back in 2017, and teams want to find a similar replacement this model can help in that recruitment process. 
 
+**NOTE:** I am well aware that this is a very simplistic approach but it's a good start to see the method in action. Above all, this project was a great experience as I continue to gain valuable knowledge and understanding in my data sciense pursuit. 
+
+
+This is a very simplistic approach but it's a good start to see the method in action.
+
 ### What I Learned
 1. Web Scraping with Selenium
 2. PCA
@@ -19,6 +24,9 @@ What this model attempts to do through unsupervised learning is try to group pla
 
 ##### Sources 
  - Hands-On Machine Learning with Scikit-Learn, Keras & TenserFlow by: Aurélien Géron
- - (https://dtai.cs.kuleuven.be/sports/blog/player-vectors-characterizing-soccer-players-playing-style)
- - 
+ - https://dtai.cs.kuleuven.be/sports/blog/player-vectors-characterizing-soccer-players-playing-style
+ - https://rpubs.com/SayakChakraborty/ClusterAnalysisFIFA20
+ - https://ecmlpkdd2019.org/downloads/paper/701.pdf
+ - https://towardsdatascience.com/player-similarities-interpolation-aecbf6423c72
+ - https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-3-dbscan-b23389a08cc7
 
