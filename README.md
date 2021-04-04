@@ -8,8 +8,8 @@ What this model attempts to do through unsupervised learning is try to group pla
 1. Web Scraping with Selenium
 2. PCA
 3. K-Means Clustering
-... * Elidean Distance
-... * Cosine Similarity Distance
-... * Elbow Method
-... * Silhouette Coefficient
+    * Elidean Distance
+    * Cosine Similarity Distance
+    * Elbow Method
+    * Silhouette Coefficient
 4. Streamlit Application 
