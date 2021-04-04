@@ -27,8 +27,8 @@ This is a very simplistic approach but it's a good start to see the method in ac
  - https://dtai.cs.kuleuven.be/sports/blog/player-vectors-characterizing-soccer-players-playing-style
  - https://rpubs.com/SayakChakraborty/ClusterAnalysisFIFA20
  - https://ecmlpkdd2019.org/downloads/paper/701.pdf
- - https://towardsdatascience.com/player-similarities-interpolation-aecbf6423c72
- - https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-3-dbscan-b23389a08cc7
- - https://github.com/Ben8t/player_vector/blob/master/src/similarity.py
+ - [towardsDatascience](https://towardsdatascience.com/player-similarities-interpolation-aecbf6423c72)
+ - [towardsDatascience](https://towardsdatascience.com/grouping-soccer-players-with-similar-skillsets-in-fifa-20-part-3-dbscan-b23389a08cc7)
+ - [similarity.py](https://github.com/Ben8t/player_vector/blob/master/src/similarity.py)
  - [datascience.sai](https://datascience.sia-partners.ai/en/blog/ai-applied-football-uncover-most-promising-talent)
 
