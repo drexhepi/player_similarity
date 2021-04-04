@@ -7,7 +7,6 @@ What this model attempts to do through unsupervised learning is try to group pla
 **NOTE:** I am well aware that this is a very simplistic approach but it's a good start to see the method in action. Above all, this project was a great experience as I continue to gain valuable knowledge and understanding in my data sciense pursuit. 
 
 
-This is a very simplistic approach but it's a good start to see the method in action.
 
 ### What I Learned
 1. Web Scraping with Selenium
